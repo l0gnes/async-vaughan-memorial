@@ -1,2 +1,2 @@
-# async-vaughn-memorial
-An python async API wrapper for the Vaughn Memorial Library's study room booking backend
+# async-vaughan-memorial
+An python async API wrapper for the Vaughan Memorial Library's study room booking backend
