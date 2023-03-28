@@ -2,7 +2,7 @@ from typing import List
 from objects import Room, RoomType
 from aiohttp import ClientSession
 
-class VaughnMemorialLibrary(object):
+class VaughanMemorialLibrary(object):
 
     LIBRARY_ENDPOINT = "https://auls.acadiau.ca/booking/API/unavailable-times.php"
 
